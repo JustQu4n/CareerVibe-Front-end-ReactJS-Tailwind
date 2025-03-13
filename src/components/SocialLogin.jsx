@@ -6,7 +6,7 @@ const SocialLogin = () => {
          
         </button>
         <button className="flex-1 bg-zinc-200 text-zinc-800 p-2 rounded-lg hover:bg-zinc-300">
-          Facebook
+          Facebooks
         </button>
       </div>
     );
